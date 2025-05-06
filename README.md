@@ -1,5 +1,9 @@
 # E-commerce na cloud
 
+<div align="center">
+  <img src="src/assets/cloud_banner.jpg" alt="nuvem e computadores" width="600"/>
+</div>
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -36,8 +40,10 @@ Roda a aplicação em Python de maneira interativa, com recursos orientados a da
 
 # Demonstração da aplicação
 
-<img src="assets/overview.png" alt="cadastro de produtos" />
-
+<img src="src/assets/overview.png" alt="cadastro de produtos" />
+<img src="src/assets/list_products.png" alt="cadastro de produtos" />
+<img src="src/assets/products_2.png" alt="cadastro de produtos" />
+<img src="src/assets/products_3.png" alt="cadastro de produtos" />
 
 
 # Autora
