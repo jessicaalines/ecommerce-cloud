@@ -1,7 +1,7 @@
 # E-commerce na cloud
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jessicaalines/ecommerce-cloud/refs/heads/main/src/assets/purple_cloud.png" alt="nuvem neon roxa" width="400"/>
+  <img src="https://raw.githubusercontent.com/jessicaalines/ecommerce-cloud/refs/heads/main/src/assets/purple_cloud-removebg.png" alt="nuvem neon roxa" width="400"/>
 </div>
 
 
