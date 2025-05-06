@@ -7,7 +7,3 @@ CREATE TABLE Produtos (
 )
 
 
-sqllab001dbdeveastus
-
-jasoliveiraadminuser2006
-EcAc85%08B&&AcbF?04-17ThA!
