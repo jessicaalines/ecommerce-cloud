@@ -40,7 +40,6 @@ Roda a aplicação em Python de maneira interativa, com recursos orientados a da
 # Demonstração da aplicação
 
 <img src="src/assets/overview.png" alt="cadastro de produtos" />
-<img src="src/assets/list_products.png" alt="cadastro de produtos" />
 <img src="src/assets/products_2.png" alt="cadastro de produtos" />
 <img src="src/assets/products_3.png" alt="cadastro de produtos" />
 
