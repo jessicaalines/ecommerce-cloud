@@ -1,0 +1,18 @@
+# Ocultar arquivos sensíveis
+.env
+
+# Pycache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Produtos locais
+produtos.json
