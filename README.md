@@ -1,7 +1,7 @@
 # E-commerce na cloud
 
 <div align="center">
-  <img src="src/assets/cloud_banner.jpg" alt="nuvem e computadores" width="600"/>
+  <img src="src/assets/purple_cloud.png" alt="nuvem neon roxa" />
 </div>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -11,8 +11,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-
-[![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](http://fakesite.invalid/)
 
 # Descrição
 Este projeto é um dos laboratórios do bootcamp Azure Cloud Native da DIO, com o objetivo de criar um e-commerce na cloud.
