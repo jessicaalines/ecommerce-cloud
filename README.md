@@ -22,9 +22,9 @@ Este projeto não contemplará a parte de instruções de instalação. Como se 
 # Informações técnicas
 Para a realização deste projeto foram utilizados o Streamlit e o Azure (em duas frentes): </br>
 ## Azure Storage Account:
-Utilizado para armazenar as imagens do e-commerce através de um blob container
+Utilizado para armazenar as imagens do e-commerce através de um blob container.
 ## Azure SQL Database
-Utilizado para a criação do banco de dados e da tabela que armazena as informações de input dos produtos cadastrados
+Utilizado para a criação do banco de dados e da tabela que armazena as informações de input dos produtos cadastrados.
 ## Streamlit
 Roda a aplicação em Python de maneira interativa, com recursos orientados a dados e de visualização amigável.
 
